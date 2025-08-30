@@ -1,5 +1,5 @@
 # Tamazight-English Dictionary 2007 - Cleaned Dataset
-[![Hugging Face](https://img.shields.io/badge/🤗-Hugging%20Face-blue.svg)]([https://huggingface.co/your-username/your-model](https://huggingface.co/datasets/Abdeljalil-Ounaceur/English-Tamazight-Dictionnary-2007))
+[![Hugging Face](https://img.shields.io/badge/🤗-Hugging%20Face-blue.svg)](https://huggingface.co/datasets/Abdeljalil-Ounaceur/English-Tamazight-Dictionnary-2007)
 
 
 This repository contains cleaned and structured data extracted from the **Tamazight-English Dictionary 2007** book, converted into machine-readable TSV (Tab-Separated Values) files for linguistic research, language learning, and NLP applications.
